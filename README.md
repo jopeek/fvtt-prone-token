@@ -5,7 +5,7 @@ Simple module that switches a Token to an alternate 'prone' Token when the prone
 Your prone token must reside in the same folder as the regular token and be named the same but with _prone before the extension. Example:
 
 MyToken.png (regular token)
-MyToke_prone.png (prone token)
+MyToken_prone.png (prone token)
 
 The token will change if an effect is applied that contains the svg filename of:
 - falling
